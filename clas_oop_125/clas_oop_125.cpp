@@ -2,7 +2,11 @@
 using namespace std;
 
 class mahasiswa {
-public :
+ public :
+     string nim, nama;
+
+ public :
+
 };
 
 
