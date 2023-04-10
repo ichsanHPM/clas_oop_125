@@ -27,6 +27,16 @@ class matakuliah {
      string namaM, kode, sks;
 
  public : 
+     void input() {
+         cout << "\nMasukkan Nama Matkul : ";
+         cin >> namaM;
+
+         cout << "\nMasukkan Kode Matkul : ";
+         cin >> kode;
+
+         cout << "/nMasukkan SKS : ";
+         cin >> sks;
+     }
 };
 
 
