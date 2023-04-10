@@ -37,6 +37,10 @@ class matakuliah {
          cout << "/nMasukkan SKS : ";
          cin >> sks;
      }
+
+     void tampil() {
+
+     }
 };
 
 
