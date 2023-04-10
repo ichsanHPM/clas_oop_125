@@ -39,7 +39,9 @@ class matakuliah {
      }
 
      void tampil() {
-
+         cout << "Nama Matkul : " << namaM;
+         cout << "Kode : " << kode;
+         cout << "Jumlah SKS : " << sks;
      }
 };
 
