@@ -48,6 +48,7 @@ class matakuliah {
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    mahasiswa mhs1;
+    matakuliah mk;
 }
 
