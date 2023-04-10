@@ -6,6 +6,13 @@ class mahasiswa {
      string nim, nama;
 
  public :
+     void input() {
+         cout << "\nMasukkan Nama Mahasiswa : ";
+         cin >> nama;
+         cout << "\nMasukkan NIM : ";
+         cin >> nim;
+     }
+
 
 };
 
