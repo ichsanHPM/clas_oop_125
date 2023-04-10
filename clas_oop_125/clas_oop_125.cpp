@@ -25,6 +25,8 @@ class mahasiswa {
 class matakuliah {
  private :
      string namaM, kode, sks;
+
+ public : 
 };
 
 
