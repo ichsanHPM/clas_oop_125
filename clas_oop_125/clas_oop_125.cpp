@@ -13,6 +13,12 @@ class mahasiswa {
          cin >> nim;
      }
 
+ public :
+     void cetak() {
+         cout << "\nNIM : " << nim;
+         cout << "\nNama : " << nama;
+         cout << endl;
+     }
 
 };
 
