@@ -22,6 +22,10 @@ class mahasiswa {
 
 };
 
+class matakuliah {
+
+};
+
 
 int main()
 {
